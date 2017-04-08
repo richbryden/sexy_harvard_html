@@ -1,0 +1,17 @@
+
+    .pink_box{background-color: pink;
+    height: 100px;
+    width: 200px;
+    }  
+    .green_box{background-color: lightgreen;
+    height: 100px;
+    width: 200px;
+    font-weight: bold;
+    font-style: italic;
+    }    
+    .blue_box{background-color: #7881ff;
+    height: 100px;
+    width: 200px;
+    font-weight: bold;
+    font-style: italic;
+    }  
